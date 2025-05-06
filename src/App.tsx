@@ -26,7 +26,7 @@ function App() {
         <div className="container mx-auto px-8 py-8">
           <div className="flex justify-between items-center mb-8">
             <div className="flex items-center space-x-3">
-              <img src="https://drive.google.com/file/d/1qKmkInLe7A-ZnOMCbtE1QQGwdD6gtJjy/view usp=sharing" alt="Logo"className="w-12 h-12 object-contain"/>
+              <img src="https://i.ibb.co/FbyCWrvb/logo-yari.png" alt="logo-yari" border="0" className="w-12 h-12 object-contain"/>
               <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
                 Análise de Perfil DISC
               </h1>
